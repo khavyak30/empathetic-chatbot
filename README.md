@@ -43,3 +43,10 @@ The goal is to fine-tune an open-source Large Language Model (LLM) to behave lik
 ## Notes
 - This is a lightweight sanity-check fine-tuning due to compute constraints
 - The focus is on correct methodology and explainability
+
+- ---
+
+## Submission & Review
+This repository is submitted as part of the Vibe AI hiring assignment.  
+Reviewer / Tagged for review: @ahan-2000
+
